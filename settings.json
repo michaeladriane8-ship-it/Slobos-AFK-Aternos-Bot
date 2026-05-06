@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "",
+    "username": "Boronox",
+    "password": "123123",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "GalaxyCommunity.aternos.me",
+    "port": 51236,
     "version": "",
     "try-creative": false
   },
