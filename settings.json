@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "FlameFrags",
   "bot-account": {
-    "username": "IASBOT",
-    "password": "",
+    "username": "FlameFrags",
+    "password": "GxBotGalaxy",
     "type": "offline"
   },
   "server": {
-    "ip": "xByAlvaroSSJ_MC.aternos.me",
-    "port": 34249,
-    "version": "1.21.1",
+    "ip": "galaxycommunity.playmc.world",
+    "port": 28147,
+    "version": "26.3",
     "try-creative": false
   },
   "position": {
